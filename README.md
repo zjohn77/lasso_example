@@ -1,1 +1,1 @@
-![plot](plots/visuals.png)
+![plot](doc/visuals.png)
