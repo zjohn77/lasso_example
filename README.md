@@ -1,6 +1,7 @@
 ## 1. Install
 ```sh
-git clone https://github.com/zjohn77/lassomodel-starter
+git clone https://github.com/zjohn77/lassomodel-starter.git
+pip install -r requirements.txt
 ```
 
 ## 2. Tutorial
