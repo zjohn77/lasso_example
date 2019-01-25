@@ -1,5 +1,5 @@
-## 1. Tutorial
-A model starter for interpretable ML using LASSO. LASSO is a type of predictive model with the salient ability to produce results that are nicely interpretable. Read this [guide](https://zjohn77.github.io/blog/posts/lasso) to learn how to build a LASSO model using lassomodel-starter.
+## 1. Overview
+The **lassomodel-starter** is a model starter that makes it simple to build interpretable predictive models via [LASSO](http://statweb.stanford.edu/~tibs/sta305files/Rudyregularization.pdf). The advantage of LASSO is that its results are easily interpretable and yet achieve state of the art accuracy. This [**tutorial**](https://zjohn77.github.io/blog/posts/lasso) will review the concepts of LASSO as well as get you started on making a LASSO model using the lassomodel-starter.
 
 ## 2. Install
 ```sh
@@ -7,5 +7,7 @@ git clone https://github.com/zjohn77/lassomodel-starter.git
 pip install -r requirements.txt
 ```
 
-
-
+## 3. Explore the notebook
+```sh
+jupyter-lab run_model.ipynb
+```
